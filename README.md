@@ -24,6 +24,6 @@ This project is a VR-based forklift training simulation that allows users to pra
 🔹 Scoring & Feedback System – Real-time evaluation of performance.
 
 ## Contributors
-👤  Game Developer & Designer: [[Pawanrat Santiyanon]](https://www.linkedin.com/in/pawanrat-santiyanon/)
-📫 Portfolio: [[Your Portfolio Link]](https://nookpawanrat.github.io/portfolio/)
-📧 Contact: pawanrat.santiyanon@gmail.com
+👤  Game Developer & Designer: [[Pawanrat Santiyanon]](https://www.linkedin.com/in/pawanrat-santiyanon/) </b>
+📫 Portfolio: [[Your Portfolio Link]](https://nookpawanrat.github.io/portfolio/) </b>
+📧 Contact: pawanrat.santiyanon@gmail.com </b>
