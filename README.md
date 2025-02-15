@@ -3,7 +3,7 @@
 🚀 **An immersive VR simulation designed to train users in forklift operation and parking, built using Unreal Engine.**  
 
 ## Overview  
-This project is a VR-based forklift training simulation that allows users to practice safe forklift operation in a virtual environment. The simulation includes **realistic physics, interactive controls, and guided training scenarios** to enhance the learning experience.  
+This project is a VR-based forklift training simulation that allows users to practice safe forklift operations in a virtual environment. The simulation includes **realistic physics, interactive controls, and guided training scenarios** to enhance the learning experience.  
 
 ## Features  
 ✅ **Physics-Based Forklift Controls** – Drive, steer, and operate the forklift realistically.  
@@ -17,7 +17,7 @@ This project is a VR-based forklift training simulation that allows users to pra
 - **Drive Forward/Backward:** Grab the lever and push/pull to control movement.  
 - **Steer the Forklift:** Use the wheel or joystick for directional control.  
 - **Complete Parking Challenge:** Navigate through obstacles and park correctly.
-- 
+
 ## Future Improvements
 🔹 Additional Training Levels – More complex parking and handling scenarios.
 🔹 Multiplayer Mode – Training simulations with instructors.
