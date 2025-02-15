@@ -6,22 +6,22 @@
 This project is a VR-based forklift training simulation that allows users to practice safe forklift operations in a virtual environment. The simulation includes **realistic physics, interactive controls, and guided training scenarios** to enhance the learning experience.  
 
 ## Features  
-✅ **Physics-Based Forklift Controls** – Drive, steer, and operate the forklift realistically.  
-✅ **Interactive Training Scenarios** – Step-by-step instructions for proper forklift parking.  
-✅ **Immersive VR Experience** – Designed for training with interactive elements.  
-✅ **User-Friendly UI** – Clear instructions and visual feedback to improve learning.  
-✅ **Safety-Focused Design** – Simulates real-world obstacles to enhance operator skills.  
+✅ **Physics-Based Forklift Controls** – Drive, steer, and operate the forklift realistically.  </br>
+✅ **Interactive Training Scenarios** – Step-by-step instructions for proper forklift parking. </br> 
+✅ **Immersive VR Experience** – Designed for training with interactive elements.  </br>
+✅ **User-Friendly UI** – Clear instructions and visual feedback to improve learning.  </br>
+✅ **Safety-Focused Design** – Simulates real-world obstacles to enhance operator skills.  </br>
 
 ## Controls  
-- **Grab & Enter Forklift:** Use VR hand controllers to grab and enter the forklift.  
-- **Drive Forward/Backward:** Grab the lever and push/pull to control movement.  
-- **Steer the Forklift:** Use the wheel or joystick for directional control.  
-- **Complete Parking Challenge:** Navigate through obstacles and park correctly.
+- **Grab & Enter Forklift:** Use VR hand controllers to grab and enter the forklift.  </br>
+- **Drive Forward/Backward:** Grab the lever and push/pull to control movement.  </br>
+- **Steer the Forklift:** Use the wheel or joystick for directional control.  </br>
+- **Complete Parking Challenge:** Navigate through obstacles and park correctly.</br>
 
 ## Future Improvements
-🔹 Additional Training Levels – More complex parking and handling scenarios.
-🔹 Multiplayer Mode – Training simulations with instructors.
-🔹 Scoring & Feedback System – Real-time evaluation of performance.
+🔹 Additional Training Levels – More complex parking and handling scenarios. </br>
+🔹 Multiplayer Mode – Training simulations with instructors.</br>
+🔹 Scoring & Feedback System – Real-time evaluation of performance.</br>
 
 ## Contributors
 👤  Game Developer & Designer: [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/) </br>
