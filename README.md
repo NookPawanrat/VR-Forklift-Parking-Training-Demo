@@ -1,4 +1,4 @@
-# 🕹️ VR Forklift Challenge 🚜🅿️
+# 🕹️ VR Forklift Parking Simulator 🚜🅿️
 
 🚀 **An immersive VR simulation designed to train users in forklift operation and parking, built using Unreal Engine.**  
 
