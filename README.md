@@ -15,7 +15,7 @@ This project is a VR-based forklift training simulation that allows users to pra
 ## Controls  
 - **Grab & Enter Forklift:** Use VR hand controllers to grab and enter the forklift.  </br>
 - **Drive Forward/Backward:** Grab the lever and push/pull to control movement.  </br>
-- **Steer the Forklift:** Use the wheel or joystick for directional control.  </br>
+- **Steer the Forklift:** Use the wheel or joystick for directional control. (In Progress) </br>
 - **Complete Parking Challenge:** Navigate through obstacles and park correctly.</br>
 
 ## Future Improvements
@@ -24,6 +24,9 @@ This project is a VR-based forklift training simulation that allows users to pra
 🔹 Scoring & Feedback System – Real-time evaluation of performance.</br>
 
 ## Contributors
-👤  Game Developer & Designer: [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/) </br>
+👤 VR Developer: [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/) </br>
 📫 Portfolio: [Website Portfolio Link](https://nookpawanrat.github.io/portfolio/) </br>
 📧 Contact: pawanrat.santiyanon@gmail.com </br>
+
+### Asset Credits
+🖼️ Assets downloaded from: [cgtrader.com](https://www.cgtrader.com/)  
