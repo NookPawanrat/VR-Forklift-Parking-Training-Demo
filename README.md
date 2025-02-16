@@ -16,6 +16,13 @@ This project is a VR-based forklift training simulation that allows users to pra
 ✅ **User-Friendly UI** – Clear instructions and visual feedback to improve learning.  </br>
 ✅ **Safety-Focused Design** – Simulates real-world obstacles to enhance operator skills.  </br>
 
+## Tech Stack  
+🎮 **Engine:** Unreal Engine 5 (Blueprint-based)  </br>
+💻 **Language:** Blueprint Scripting  </br>
+⚙️ **Physics:** Unreal Engine Physics for forklift movement and object interaction   </br>
+🖥 **UI/UX:** Widget Blueprints for in-game HUD and notifications  </br>
+🎯 **VR Support:** Oculus headsets  </br>
+
 ## Controls  
 - **Grab & Enter Forklift:** Use VR hand controllers to grab and enter the forklift.  </br>
 - **Drive Forward/Backward:** Grab the lever and push/pull to control movement.  </br>
