@@ -36,7 +36,6 @@ This project is a VR-based forklift training simulation that allows users to pra
 
 ## Contributors
 👤 VR Developer: [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/) </br>
-📫 Portfolio: [Website Portfolio Link](https://nookpawanrat.github.io/portfolio/) </br>
 📧 Contact: pawanrat.santiyanon@gmail.com </br>
 
 ### Asset Credits
